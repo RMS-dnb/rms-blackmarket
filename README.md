@@ -10,5 +10,6 @@ Features
 -Add an unlimited number of items for both purchasing and selling in the black market.
 
 #Big shouts to Jc-blackmarket for the original script
+
 https://forum.cfx.re/t/rsg-free-jc-blackmarket/5224412
 https://github.com/Jewsie/jc-blackmarket
