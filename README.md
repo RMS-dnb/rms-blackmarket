@@ -16,7 +16,7 @@ Massive thanks to [Jewsie](https://github.com/Jewsie) for creating the original 
 ## Requirements
 
 - **RSGCore v2**  
-- Targeting system (e.g., `rsg-target`)
+- Targeting system (e.g., `rsg-target`, `ox-target`)
 
 ## Installation
 
